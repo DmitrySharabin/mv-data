@@ -1,0 +1,29 @@
+{
+	"project": [
+		"Project A",
+		"Project B",
+		"Project C",
+		"Client A",
+		"Client B"
+	],
+	"log_entry": [
+		{
+			"start_time": 1697409812590,
+			"end_time": 1697409824277,
+			"paused_time": 0,
+			"project": "Project B"
+		},
+		{
+			"start_time": 1697409832814,
+			"end_time": 1697409857549,
+			"paused_time": 8063,
+			"project": "Client A"
+		},
+		{
+			"start_time": 1697409866106,
+			"end_time": 1697409875028,
+			"paused_time": 0,
+			"project": "Project C"
+		}
+	]
+}
